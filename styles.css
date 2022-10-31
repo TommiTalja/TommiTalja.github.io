@@ -20,7 +20,8 @@ p
 	text-indent: 3em; 
 	}
 div
-	{color: blue
+	{color: blue;
+	background-color: blue;
 	}
 ul 
 	{font-weight: bold; 
