@@ -2,8 +2,11 @@ h1
 
 	{color: red; text-align: center
 	}
-link 
-	{color: blue; text-align: center
+a
+	{text-align: center
+	}
+img
+	{text-align: center
 	}
 p
 	{color: yellow; text-align: center
