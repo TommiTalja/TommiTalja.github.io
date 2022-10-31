@@ -1,5 +1,7 @@
 h1
-	{color: red;}
+	{color: red;
+	}
 
-	
-background-image: url(C:/Users/tommi/Desktop/GitHub/TommiTalja.github.io/TAUSTAKUVA.jpg)
+.box 
+	{background-image:url(C:/Users/tommi/Desktop/GitHub/TommiTalja.github.io/TAUSTAKUVA.jpg)
+	}
