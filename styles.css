@@ -21,8 +21,9 @@ p
 	}
 div
 	{color: blue;
-	width: 600;
-	height: 400
+	width: 50%;
+	height: 50%;
+	text-align: center;
 	}
 ul 
 	{font-weight: bold; 
