@@ -31,11 +31,9 @@ ul
 	{ list-style: square;
 	}
 	
-.fancy 
-	{font-weight: bold;
-	text-shadow: 4px 4px 3px #77f;
-	}
-.red 
+.luokka 
 	{color: #f33;
-	  /* Center vertically and horizontally */
+	font-weight: bold;
+	text-shadow: 4px 4px 3px #77f;
+	text-align: center;
 	}
