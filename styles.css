@@ -34,6 +34,8 @@ ul
 	
 .container
 	{text-align: center;
+	margin-left: auto;
+    margin-right: auto;
 	color: red;
 	font-weight: bold;
 	text-shadow: 4px 4px 3px #77f;
