@@ -20,7 +20,9 @@ p
 	text-indent: 3em;
 	}
 div
-	{border-width: 2px dotted;	
+	{background-color: white;
+	border-color: yellow;
+	border-width: 2px dotted;	
     border-width: 100px;
     border-top-width: 100px;
     border-right-width:100px;
