@@ -18,8 +18,7 @@ p
 	text-indent: 3em;
 	}
 div
-	{text-align: center;
-	background-color: white;
+	{background-color: white;
 	border-style: dotted;
 	border-width: 2px;	
 	width: 100px;
@@ -33,11 +32,9 @@ ul
 	}
 	
 .fancy 
-	{text-align: center;
-	font-weight: bold;
+	{font-weight: bold;
 	text-shadow: 4px 4px 3px #77f;
 	}
 .red 
-	{text-align: center;
-	color: #f33;
+	{color: #f33;
 	}
