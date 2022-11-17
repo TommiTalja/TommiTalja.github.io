@@ -21,8 +21,8 @@ div
 	{background-color: white;
 	border-style: dotted;
 	border-width: 2px;	
-	element-width: 100px;
-	element-height: 100px;
+	width: 100px;
+	height: 100px;
 	}
 ol
 	{list-style: letters;
