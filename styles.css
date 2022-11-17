@@ -1,38 +1,40 @@
 body	
 	{background-color: black; 
 	text-align: center;
-	font-family: Arial, Verdana, sans-serif; 
+	font-family: Arial, Verdana, sans-serif
 	}
 h1	
 	{color: white;
 	line-height: 200%;
 	font-size: 20;
-	font-family: Georgia, "Times New Roman", serif; 
+	font-family: Georgia, "Times New Roman", serif;
 	}
 h2 
 	{color: white; 
 	text-align: center;
-	font-family: Georgia, "Times New Roman", serif; 
+	font-family: Georgia, "Times New Roman", serif 
 	}
 p 
 	{color: green;
 	font-size: 12; 
-	text-indent: 3em; 
+	text-indent: 3em;
 	}
 div
-	{color: blue;
+	{border-width: 2px dotted;	
+    border-width: 100px;
+    border-top-width: 100px;
+    border-right-width:100px;
+    border-bottom-width: 100px;
+    border-left-width: 100px; 
+	border-height: 100px;
+    border-top-height: 100px;
+    border-right-height:100px;
+    border-bottom-height: 100px;
+    border-left-height: 100px 
 	}
-
+ol
+	{list-type: letters
+	}
 ul 
-	{font-weight: bold; 
-	}
-
-#container 
-	{margin-left: auto;
-	margin-right: auto;
-	width:80%;
-	}
-
-.redcol 
-	{color: #ff0000;
+	{ list-style: square
 	}
