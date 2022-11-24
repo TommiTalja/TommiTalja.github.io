@@ -15,6 +15,9 @@ h2
 	}
 p 
 	{color: green;
+	border: 3px solid purple;
+	border-radius: 5px;
+	background-color: yellow;
 	text-indent: 3em;
 	}
 div
@@ -40,5 +43,20 @@ ul
 	color: red;
 	font-weight: bold;
 	text-shadow: 4px 4px 3px #77f;
+	align-items: center;
+	}
+	
+.ylakulma
+	{vertical-align:top;
+	}
+	
+.otsikko
+	{text-align: center;
+	font-size: 100px;
+	margin-left: auto;
+    margin-right: auto;
+	color: red;
+	font-weight: bold;
+	text-shadow: 10px 10px 10px #77f;
 	align-items: center;
 	}
