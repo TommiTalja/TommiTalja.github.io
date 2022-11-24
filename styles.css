@@ -46,18 +46,3 @@ ul
 	align-items: center;
 	}
 	
-.ylakulma
-	{vertical-align:top;
-	font-color: white;
-	}
-	
-.otsikko
-	{text-align: center;
-	font-size: 100px;
-	margin-left: auto;
-    margin-right: auto;
-	color: red;
-	font-weight: bold;
-	text-shadow: 10px 10px 10px #77f;
-	align-items: center;
-	}
