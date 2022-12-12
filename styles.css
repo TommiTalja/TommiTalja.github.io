@@ -41,7 +41,7 @@ ul
 	figure
 	{
 	color:white;}
-	progress {text-color:white;
+	progress {color:DarkRed;
   background-color: white;
   border: 2px;
   height: 18px;
