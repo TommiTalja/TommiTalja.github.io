@@ -37,6 +37,13 @@ ul
 	{ list-style: square;
 	}
 	
+	progress {
+  background-color: white;
+  border: 2px;
+  height: 18px;
+border-color:red;
+  border-radius: 9px;
+}
 .container
 	{float: auto;
 	text-align: center;
