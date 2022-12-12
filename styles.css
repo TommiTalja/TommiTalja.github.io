@@ -36,7 +36,8 @@ ul
 	}
 	
 .container
-	{text-align: center;
+	{float: auto;
+	text-align: center;
 	font-size: 10px;
 	margin-left: auto;
     margin-right: auto;
