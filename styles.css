@@ -37,6 +37,9 @@ ul
 	{ list-style: square;
 	}
 	
+	figure
+	{
+	color:white;}
 	progress {color:white;
   background-color: white;
   border: 2px;
