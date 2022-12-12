@@ -13,3 +13,9 @@ width: 90%;
 margin-left: auto;
 margin-right: auto;
 }  
+
+.container-fluid
+{
+	color:black;background-color:black;
+font-color: purple;
+}
